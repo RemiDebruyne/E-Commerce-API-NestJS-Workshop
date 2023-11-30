@@ -18,7 +18,7 @@ Votre mission si vous l'acceptez est de créer une API simple de petites annonce
 - [x] 6. Tester votre route avec [httpie](https://httpie.io/cli) ou "Postman".
    - L'URL par défaut de l'API est la suivante : `http://localhost:3000/` ([s'y rendre](http://localhost:3000/))
 - [x] 7. Créer un nouveau controller appellé "Product".
-- [ ] 8. Créer un nouveau service pour ce nouveau controller nommé "Product".
+- [x] 8. Créer un nouveau service pour ce nouveau controller nommé "Product".
 - [ ] 9. Créer une nouvelle route dans le controller `Product` qui utilise le service `Product` et renvoie un tableau de nom d'article.
 - [ ] 10. Créer un nouveau module nommé `Product`.
 - [ ] 11. Déplacer le controller, le service et le module `Product` dans un nouveau dossier nommé `Product`.
