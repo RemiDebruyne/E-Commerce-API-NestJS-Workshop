@@ -8,8 +8,8 @@ Votre mission si vous l'acceptez est de créer une API simple de petites annonce
  
 <details open><summary><h2>Prise en main</h2></summary>
 
-- [ ] 1. Créer un projet Nest.
-- [ ] 2. Inspecter le dossier `src` du projet Nest pour trouver :
+- [x] 1. Créer un projet Nest.
+- [x] 2. Inspecter le dossier `src` du projet Nest pour trouver :
    - Un controlleur (Controller)
    - Un service
 - [ ] 3. Créer une nouvelle route nommée "sayGoodbye" dans ce controller.
