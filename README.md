@@ -20,7 +20,7 @@ Votre mission si vous l'acceptez est de créer une API simple de petites annonce
 - [x] 7. Créer un nouveau controller appellé "Product".
 - [x] 8. Créer un nouveau service pour ce nouveau controller nommé "Product".
 - [x] 9. Créer une nouvelle route dans le controller `Product` qui utilise le service `Product` et renvoie un tableau de nom d'article.
-- [ ] 10. Créer un nouveau module nommé `Product`.
+- [x] 10. Créer un nouveau module nommé `Product`.
 - [ ] 11. Déplacer le controller, le service et le module `Product` dans un nouveau dossier nommé `Product`.
 - [ ] 12. Lier le controller `Product` et le service `Product` dans le module `Product`.
 - [ ] 13. Importer le module `Product` dans le module `App`.
