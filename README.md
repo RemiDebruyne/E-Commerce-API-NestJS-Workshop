@@ -91,10 +91,10 @@ model Users {
 <details open>
 <summary><h2>Documentation de l'API : Swagger</h2></summary>
 
-- [ ] 33. Installer `Swagger` en tant que dépendance du projet.
-- [ ] 34. Initialiser `Swagger` pour être utilisé par Nest.
-- [ ] 35. Utiliser le décorateur `Swagger` approprié pour documenter les routes du controller `Users` séparément.
-- [ ] 36. Documenter les champs du DTO de création d'utilisateur en utilisant le décorateur `Swagger` approprié.
+- [x] 33. Installer `Swagger` en tant que dépendance du projet.
+- [x] 34. Initialiser `Swagger` pour être utilisé par Nest.
+- [x] 35. Utiliser le décorateur `Swagger` approprié pour documenter les routes du controller `Users` séparément.
+- [x] 36. Documenter les champs du DTO de création d'utilisateur en utilisant le décorateur `Swagger` approprié.
 - [ ] 37. Tester la documentation Swagger en se rendant à l'URL `http://localhost:3000/api` ([s'y rendre](http://localhost:3000/api))
 
 </details>
