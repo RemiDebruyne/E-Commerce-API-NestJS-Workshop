@@ -101,10 +101,10 @@ model Users {
 <details open>
 <summary><h2>CRUD pour les produits</h2></summary>
 
-- [ ] 38. Créer une route et ses besoins annexes pour enregistrer de nouveaux article.
-- [ ] 39. Créer une route pour récupérer un article par son UUID.
-- [ ] 40. Créer une route et ses besoins annexes pour modifier les informations d'un article par son UUID.
-- [ ] 41. Créer une route pour supprimer un article par son UUID.
+- [x] 38. Créer une route et ses besoins annexes pour enregistrer de nouveaux article.
+- [x] 39. Créer une route pour récupérer un article par son UUID.
+- [x] 40. Créer une route et ses besoins annexes pour modifier les informations d'un article par son UUID.
+- [x] 41. Créer une route pour supprimer un article par son UUID.
 
 </details>
 <details open>
