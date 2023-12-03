@@ -84,8 +84,8 @@ model Users {
     - Un champ de message qui doit dire que l'opération à bien été exécutée nommé `message`.
     - Un champ de données qui doit contenir le résultat de l'opération nommé `data`.
 - [x] 30. Préparer la validation des données envoyées par l'utilisateur en utilisant la `Validation Pipe` et ses décorateurs.
-- [ ] 31. Utiliser la `Validation Pipe` comme `Global Pipe`.
-- [ ] 32. Transformer automatiquement les données envoyées par l'utilisateur dans le type attendu dans le DTO grâce à la `Validation Pipe`.
+- [x] 31. Utiliser la `Validation Pipe` comme `Global Pipe`.
+- [x] 32. Transformer automatiquement les données envoyées par l'utilisateur dans le type attendu dans le DTO grâce à la `Validation Pipe`.
 
 </details>
 <details open>
